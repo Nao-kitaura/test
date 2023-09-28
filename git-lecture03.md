@@ -25,7 +25,7 @@ MySQL version: 8.0.34
 
 #### DB サーバーを終了させた場合、引き続きアクセスできますか?
 出来ず、oopsと表示される。下記コマンドを
-- sudo service mysqld status　起動状態確認
+- sudo service mysqld status　状態確認
 - sudo service mysqld stop 停止
 - sudo service mysqld start 起動
 ![DBサーバー停止](/test/picture/DB.png)
