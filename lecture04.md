@@ -4,7 +4,7 @@
 ![インスタンス](picture/4_1.png)
 
 #### RDSへの接続
-![RDS](picture/4-2.png)
+![RDS](picture/4_2.png)
 
 #### VPC構成確認
 ![VPC](picture/4_map.png)
